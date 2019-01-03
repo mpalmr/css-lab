@@ -1,4 +1,4 @@
-# FS1010: CSS Lab
+CSS Lab
 
 
 ## Setup
