@@ -10,9 +10,7 @@
 
 
 ## Instructions
-Open the index.html and custom.css files in an HTML editor of your choice. These are provided in a GitHub Repo.
-
-Complete the following tasks using your existing CSS knowledge and the online resources available to you.
+All relevant files are located in the _'public'_ directory. Open the index.html and custom.css files in an HTML editor of your choice. Complete the following tasks using your existing CSS knowledge and the online resources available to you.
 
 
 ### Within the _'index.html'_ file:
