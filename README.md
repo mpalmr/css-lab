@@ -1,5 +1,14 @@
 # FS1010: CSS Lab
 
+
+## Setup
+
+1. Fork this repository by clicking on the _Fork_ button on the top right of this repositories GitHub page. ([Forking a repo](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository))
+1. [Clone the repository](https://help.github.com/articles/cloning-a-repository/)
+1. Run `npm install` in the repository from the command line.
+1. Run `npm start` whenever you wish to start work on the project and navigate to the provided URLs.
+
+
 ## Instructions
 Open the index.html and custom.css files in an HTML editor of your choice. These are provided in a GitHub Repo.
 
